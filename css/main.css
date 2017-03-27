@@ -89,6 +89,26 @@ margin-top: 50px;
   color: #fff;
 }
 
+/* Background info */
+
+.backed {
+
+background-color: #663D3D;
+padding-bottom: 500px;
+
+  }
+
+
+  .backed h1 {
+    margin: 0px;
+    padding-top: 50px;
+  }
+
+  .backed p {
+    margin: 0px;
+    padding-top: 50px;
+  }
+
 /* Media queries */
 
 @media only screen and (max-width: 987px) {
@@ -106,12 +126,7 @@ padding-bottom:  600px;
 
   } 
 
-  .backed {
-
-background-color: #663D3D;
-padding: 600px;
-
-  } 
+   
 
   .h-divider{
  
