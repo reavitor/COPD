@@ -1,13 +1,11 @@
-#margin {
-  
-  margin-top: 100px; 
-  
-}
-
 .color {
 
   background-color: #22252C;
   
+}
+
+.color h1 {
+  padding-top: 100px;
 }
 
 
