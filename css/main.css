@@ -1,6 +1,14 @@
 
 @import url('https://fonts.googleapis.com/css?family=Muli|Rubik');
 
+/* Random Shit*/
+
+#marg {
+
+  margin-right: 10%; 
+  margin-left: 10%;
+      
+}
 /* Super globals*/
 
 h1, h3 {
